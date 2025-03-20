@@ -26,7 +26,7 @@ Este estudo contribui para a área de data analytics e machine learning ao demon
 
 ### **Passos para Configuração do Ambiente**
 1. **Clone ou faça o upload do notebook:**
-   - Se estiver usando o Google Colab, basta fazer o upload do arquivo `dta.txt` (ou converter para `.ipynb`).
+   - Se estiver usando o Google Colab, basta fazer o upload do arquivo `.ipynb`.
 2. **Instale as bibliotecas necessárias:**  
    Se necessario execute o seguinte comando em uma célula do notebook:
    ```python
