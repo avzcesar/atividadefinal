@@ -39,7 +39,7 @@ Este estudo contribui para a área de data analytics e machine learning ao demon
 ### **Como Executar o Projeto**
 - Abra o notebook no Google Colab.
 - Execute as células sequencialmente para:
-  - Carregar e visualizar o dataset (ex.: `education_career_success.csv`).
+  - Carregar e visualizar o dataset `education_career_success.csv`.
   - Realizar análise exploratória com gráficos (histogramas, boxplots e heatmaps de correlação).
   - Pré-processar os dados (remoção de colunas irrelevantes, tratamento de valores ausentes, codificação de variáveis categóricas e padronização).
   - Determinar o número ideal de clusters utilizando o método do cotovelo e análise do coeficiente de silhueta.
@@ -59,7 +59,3 @@ Este estudo contribui para a área de data analytics e machine learning ao demon
 - **Pré-processamento:** Limpeza de dados, normalização e codificação.
 - **Modelo:** Algoritmo K-Means para clusterização.
 - **Métricas:** Silhouette Score e WCSS (Método do Cotovelo).
-
-## 7. Resultados e Conclusão
-- .
-- .
